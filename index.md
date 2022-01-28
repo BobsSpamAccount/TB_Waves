@@ -1,5 +1,6 @@
 #Welcome to the TB Wave Challenge Website!
 ##Alphabetical Sort:
+
 | Name                    | Wave Total | Raw Waves | Platoon Waves | SM+WAT Waves | KAM Waves |
 |-------------------------|------------|-----------|---------------|--------------|-----------|
 | Arch                    |         78 |        67 |             3 |            8 |         0 |
@@ -52,7 +53,9 @@
 | Skiewalker              |         35 |        31 |             0 |            4 |         0 |
 | Some genius name        |         48 |        44 |             0 |            4 |         0 |
 | That's no Moon          |         74 |        68 |             2 |            4 |         0 |
-###Ranking Sort:
+
+##Ranking Sort:
+
 | Name                    | Wave Total | Raw Waves | Platoon Waves | SM+WAT Waves | KAM Waves |
 |-------------------------|------------|-----------|---------------|--------------|-----------|
 | SayHiTony               |         89 |        70 |             3 |           16 |         0 |
